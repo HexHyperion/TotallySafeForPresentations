@@ -1,0 +1,2 @@
+# Totally Safe For Presentations
+A simple, friendly and absolutely necessary browser extension that helps to keep your passwords safe when you share or show your screen. Thanks to it you'll be less likely to forget your credentials, as it will be remembered by many people. I'm sure you needed it - you're welcome ❤️

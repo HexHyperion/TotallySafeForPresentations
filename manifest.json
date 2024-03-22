@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Totally Safe For Presentations",
+  "version": "1.0.69",
+  "description": "Don't mind me, I'm just protecting your passwords...",
+  
+
+  "content_scripts": [
+    {
+      "matches": ["*://*/*"],
+      "js": ["supersafe.js"]
+    }
+  ]
+}
